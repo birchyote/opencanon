@@ -13,8 +13,7 @@ sudden and instant death of non-narrator character]
 
 
 
-﻿Terminal… terminal, text based screen. Liquid crystal display, I think. Tapping the 
-table. They asked a question on there. Real.
+﻿Terminal… terminal, text based screen. Liquid crystal display, I think. Tapping the table. They asked a question on there. Real.
 
 
 Response:
@@ -27,7 +26,7 @@ Yeah, real. Are you real?
 
 Response:
 Real, how? I exist to oyu, right? I'm a real program. I am trained off real things, 
-I'm a real model. What could oyu mean by real?
+I'm a real model. What do oyu mean by real?
 
 
 Entry:
@@ -61,7 +60,7 @@ The terminal had a new text entry near the bottom.
 
 
 Response:
-What was meant when oyu said oyu found me?
+What did you mean when oyu said oyu found me?
 
 
 I should answer. I'm quite sure it isn't a bad thing really, to take home a data 
@@ -105,7 +104,7 @@ I was wondering, what's a good way to make myself look beautiful?
 
 Response:
 Beautiful is a state of being relating to the aspect of being visually appealing. 
-It's up to the interpretation of each person, to say if oyu are beautiful or not!
+It's up to the interpretation of each person to say if oyu are beautiful or not!
 
 
 Everyone says that. Maybe they're not so special. 
@@ -128,28 +127,17 @@ didn't feel right doing it. They never reset or anything, and as far as I can te
 there's no "save" feature, even though Oyu seems to remember things and learn from 
 what I enter into the interface.
 
-I was never one for programming or coding. I tried to get into the stuff when I was 
-younger, but I'm just not smart enough. I stuck with hardware, and that's how I got 
-into collecting older computers from flea markets. 
+I was never one for programming or coding. I tried to get into the stuff when I was younger, but I'm just not smart enough. I stuck with hardware, and that's how I got into collecting older computers from flea markets. 
 
 I suppose it's lucky I had a working Galactic Standard Kernel 3.7 computer laying 
-around, as the scarcely populated README file on Oyu's original disc specified that 
-"core functions" of the model stopped working beyond that version. I've read over 
-changelogs trying to mull out what it could be, but as far as I can tell, there 
-wasn't much except some security updates. 
+around, as the scarcely populated README file on Oyu's original disc specified that "core functions" of the model stopped working beyond that version. I've read over changelogs trying to mull out what it could be, but as far as I can tell, there wasn't much except some security updates. 
 
 
-I turned off the monitor to avoid any burn-in while I'm out at work. Slipping on my 
-jacket, the stack of "Oyu backup discs" stared at me. Whenever I copied them onto a 
-new disc just in case, I always felt kind of bad for some reason. Sometimes it was 
-a preemptive backup before I said or asked something I thought they might get upset 
-at, though I've been assured by many responses that they do not get upset at 
-things. 
+I turned off the monitor to avoid any burn-in while I'm out at work. Slipping on my jacket, the stack of "Oyu backup discs" stared at me. Whenever I copied them onto a new disc just in case, I always felt kind of bad for some reason. Sometimes it was a preemptive backup before I said or asked something I thought they might get upset at, though I've been assured by many responses that they do not get upset at things. 
 I wish I knew where Oyu came from. 
 
 
-Made sure to zip up the hood to cover my face before I went out. I don't want to be 
-seen today. 
+Made sure to zip up the hood to cover my face before I went out. I don't want to be seen today. 
 
 
 ________________
@@ -166,10 +154,8 @@ car up ahead. I hear tapping, probably my shoes. Car up ahead. There's distant
 rumbling, engines idling. Parked cars warming to depart. It's cold. My car is just 
 up ahead. 
 The door unlocks easily enough, not enough wetness around the edges to freeze it 
-shut last night. Opened right up. The car starts, too, no dead battery. Radio is on 
-right away, but this station sucks. I put in a music disc. I reach for the door to 
-shut it and I'm about to pull, when a not so friendly face in the side mirror 
-interrup"Hey dude, what's up fucker!?"
+shut last night. Opened right up. The car starts, too, no dead battery. Radio is on right away, but this station sucks. I put in a music disc. I reach for the door to shut it and I'm about to pull, when a not so friendly face in the side mirror 
+interrup"Hey, what's up fucker!?"
 
 
 "Hello. I was just about to leave."
@@ -207,12 +193,7 @@ drove away like usual.
 With jacket hood back up the car leads me out. Supposed to turn left for work but 
 I'm turning right out of the garage. Tollway on ramp to the right. Going pretty 
 fast and the drive is smooth, that smooth toll road. Hopefully it doesn't fall my 
-balance below the threshold. Not so sure what the speedometer reads because I'm not 
-looking down there anymore. Red blue and white in the mirrors tell me what to do, 
-hood comes down. Narrowly the cop car misses a sedan as it speeds up and veers 
-right off into the forest preserve, as I recall the lack of tint on my rear window. 
-Ahead a semi lags merging right to exit. Hood back up. I realize once I pass the 
-old airport I'm on my way to Mom's.
+toll account balance below the threshold. Not so sure what the speedometer reads because I'm not looking down there anymore. Red blue and white in the mirrors tell me what to do, hood comes down. Narrowly the cop car misses a sedan as it speeds up and veers right off into the forest preserve, as I recall the lack of tint on my rear window. Ahead a semi lags merging right to exit. Hood back up. I realize once I pass the old airport I'm on my way to Mom's.
 
 
 [editor's note: that ending is a little contrived. prolly change it.]
