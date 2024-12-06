@@ -1,0 +1,69 @@
+This will be the first time i utilize this script in the actual opencanon repo. 
+So, hello! this script is a simple one i put together and i am very new to bash 
+scripting so please have pity on my likely poor choices. this script just takes 
+the standard input after its run and folds it into an 80 coloumns wide text 
+file timestamped. The simplicity of the script leads me to hope i will utilize 
+it for writing more often than i tend to spend not writing as of late. Plus, on 
+the lighter/more ancient systems i utilize, a terminal based no distractions 
+and no frills text capture method is quite useful. Right now i am listening to 
+some... "new age" music. it isnt bad. very light. i was thinking lately of some 
+cute scenes i want to make a reality in a nice little feelgood comic. I want to 
+practice drawing organic things, not just buildings.. so, i thought up a 
+catgirl named Puppy who falls in love with a few of her friends and gets to be 
+with a lot of them all at once and openly! can you tell im sick of polyphobia 
+in the queer community? anywho, id love a scene where Puppy is in a 
+relationship with s- and theyre discussing how much they both love being 
+friends with their mutual best friend, tentatively named "A." Possibly a dog 
+girl? naming her kitty would be silly. i guess we'll see. anyways Puppy and her 
+partner end up confessing to eachother that theyre both mutually attracted to A 
+and they decide to.. confess to her themselves, together. a cute scene where A 
+agrees to go on a date with them both at the same time would be.. heartwarming. 
+it makes me feel lovely inside. a purple glowing flame. Well, beyond that and 
+more pertinent to the actual science fiction of my stories: i want to explore 
+the reasoning for "nonhuman people" theres probably a better term for that-- 
+let's call them nonhumans or posthumans for now. To be clear about something, I 
+am a transhumanist, though a lot of my art reflects transhumanism and 
+posthumanism as a negative thing:: I dont see anything as "black-and-white," 
+ancient boardgames notwithstanding, and i hope thats the right word and now 
+"withstanding."
+i know its not exactly controversial or really even a hot take to speak to the 
+complicated nature of morality but, most specifically, i do think 
+posthumanism/transhumanism, (I should look up the differences?) can be applied 
+in good and bad ways. Look, for example, to the neuralink- is it spelled like 
+that? Here, anyways, we have the wealthiest man with a 
+single-digit-and-a-decimal IQ to ever grace the technology sector with his 
+repugnant toddler roleplays, and he is pouring a significant fraction of his 
+illgotten wealth into the development of technology that should only be 
+privatized in a dystopic scenario: see, "Project 2025" for more DARK MAGA 
+details. At any rate, i invite any supporters of that man to shut the computer 
+off now, or maybe rip to shreds or surrender to another nearby person the paper 
+from which you may be reading these words, for i, the author of this text and 
+all that incorporated into this branch of the opencanon repository tree, can't 
+respect you for any period of existence that you may spend in the remotest iota 
+of reverence for anything he mentions even in an offhandedly positive light.
+Where were we? Polygamous Puppygirls? Another note on this: I DO NOT intend 
+this comic, or any draft for it, to be sexual in nature. I dont write 
+pornography, though i have nothing against anyone who does; it simply isnt for 
+me. Another thing is, I dont want another, lustful group "anything goes" 
+portrayal of polyamory. I firmly believe Polyamory and Polygamy can, and should 
+be celebrated as simply the nature of a non-monogamous relationship. That 
+being, a relationship containing more than two people, or extending the 
+possibility of additional persons beyond two. Many, many, MANY people find this 
+concept... repulsive. which saddens. it's not right to me that the most vocal 
+advocates for queer rights and justice can turn their backs just as quick as 
+retweeting links to pride festivals and celebratory material for self defense 
+and queer outreach groups for creation and simple non heteronormative respite, 
+and, even jokingly retort "Which one of you suggested an open relationship and 
+which one cries to sleep at night?" It may be a wholly personal grievance, for 
+i do admit to the simple reality of not being a particularly learned person 
+when it comes to politics, politics of identity or queer spaces, i do tend to 
+keep to my friends and myself. But the patterns cannot be ignored, not by me.. 
+Though, a simple scan of any of my drafts might reveal that i see patterns 
+where they do not and ought not to exist, so, who is to say for certain? I did 
+not intend this to become an essay or journal entry or anything of the sort. 
+But the point remains. I want to make healthy queer love an established 
+constant in my fiction. The rare exceptions are,,... well, rare... i believe 
+love is the great constant of sapience. how could anything else be true? 
+queerness is love... i think it is the most pure form of being for a living 
+thing. to love without bound. it warms the pessimistic heart that, murmured, 
+circulates my blood. it's getting late. I think that's all for now.
